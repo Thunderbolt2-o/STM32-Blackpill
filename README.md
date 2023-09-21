@@ -1,4 +1,4 @@
 # STM32-Blackpill
-![STM32 Blackpill - f401 pinout]([[http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmischianti.org%2F2022%2F06%2F06%2Fweact-stm32f401ccu6-black-pill-high-resolution-pinout-and-specs%2F&psig=AOvVaw2DZ5tNCDR3QMmAG09jANw5&ust=1695354659293000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMD3n7TmuoEDFQAAAAAdAAAAABAQ)https://www.google.com/url?sa=i&url=https%3A%2F%2Fmischianti.org%2F2022%2F06%2F06%2Fweact-stm32f401ccu6-black-pill-high-resolution-pinout-and-specs%2F&psig=AOvVaw2DZ5tNCDR3QMmAG09jANw5&ust=1695354659293000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMD3n7TmuoEDFQAAAAAdAAAAABAQ](https://mischianti.org/wp-content/uploads/2022/02/STM32-STM32F4-STM32F401-STM32F401CCU6-pinout-high-resolution.png)https://mischianti.org/wp-content/uploads/2022/02/STM32-STM32F4-STM32F401-STM32F401CCU6-pinout-high-resolution.png)
+![image](https://github.com/Thunderbolt2-o/STM32-Blackpill/assets/68735588/69c6c6fa-d174-4ed7-9b48-6d20ea7a88c9)
 STM32 documentation in progress
 
